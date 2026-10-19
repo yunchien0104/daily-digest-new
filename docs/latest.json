@@ -1,246 +1,162 @@
 {
-  "greeting": "早安！今天市場震盪，我們一起掌握關鍵財經脈動。",
+  "greeting": "早安！今天市場震盪較大，我們一起掌握關鍵動態！",
   "taiwan_stocks": {
     "night_futures_note": "今日無夜盤資料，建議至台灣期貨交易所官網查看",
-    "top_volume_note": "成交量最大個股為友達，成交量達3.41億股，股價收在35.90元。",
-    "hot_sector_note": "表現最熱的類股為油電燃氣類指數，強漲8.91%。",
+    "top_volume_note": "成交量最大個股為主動中信台灣收益(00406A)，成交量約7.92億股。",
+    "hot_sector_note": "油電燃氣類指數表現最強勁，漲幅達8.91%。",
     "news": [
       {
-        "title": "鴻海投資三菱電機推進電動車發展，台灣科技與建設市場潛力顯現 - 鉅亨網",
-        "summary": "鴻海宣布投資三菱電機推進電動車發展，顯示台灣科技與相關建設市場潛力持續顯現。",
-        "source": "鉅亨網-科技產業",
-        "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5tTEtmRU93eUxFTk9aM0hFNjRiT256NXA3QVkteUxlYnJqbGRpazNlbzZTZ1dVQVl3aGNIdjJmdG9MUXM5cVlyUy1DOUtCbzR1U01R?oc=5",
-        "published_date": "2026-10-17"
+        "title": "〈台股風向球〉AI供應鏈遭外資提款壓力驟增 等待摸底訊號 - 鉅亨網",
+        "summary": "AI供應鏈近期面臨外資較大的提款壓力，市場正密切等待行情摸底的訊號。",
+        "source": "鉅亨網-台股個股",
+        "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBkUmdJNWpfemZILXdSTVIyeEJtRktFeFNGejM2a3RGZDFkTUgtaUlSc2FtTGZOTVhDdC10NERublhZUldoRFBrUV8wWEpXRkE?oc=5",
+        "published_date": "2026-10-18"
       },
       {
-        "title": "台股回暖，AI需求激增助推科技股，台灣經濟展現強勁成長潛力 - 鉅亨網",
-        "summary": "台股隨市場回暖，在AI需求激增助推下，科技股展現強勁成長潛力與支撐力道。",
+        "title": "〈智慧能源週〉淨零展、智慧能源周3天吸引1.8萬專業買主 聚焦AI時代兼顧能源與減碳需求 - 鉅亨網",
+        "summary": "智慧能源週3天吸引大量專業買主，展現AI時代下對兼顧能源與減碳的強烈需求。",
         "source": "鉅亨網-科技產業",
-        "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9FaUlsN01tM2ltWWVoVGQ0Q1dQYXJsUm0zX1EyTzNfNVB1eTdwVnRTQ0pNTFNfTDVkYXl0RjVjeUtCZVdUNy15cmo1WXZRU05OdTdj?oc=5",
-        "published_date": "2026-10-17"
+        "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1aeHoyWlZXZUFjZWZCcTdDOGMwOVprU3BXUnZuUl8ybGt0ZjdXV29ZU3pUWmxwcWx0ZjYza09RYm13OEFSZnFIOEFtcjZXcGwyVUFF?oc=5",
+        "published_date": "2026-10-18"
       },
       {
-        "title": "台股建設與科技企業攜手推動AI創新，展現成長潛力 - 鉅亨網",
-        "summary": "台灣建設與科技企業攜手積極推動AI創新，共同展現出色的產業成長潛力。",
+        "title": "〈智慧能源週〉淨零展、智慧能源周3天吸引1.8萬專業買主 聚焦AI時代兼顧能源與減碳需求 - 鉅亨網",
+        "summary": "智慧能源週聚焦AI時代兼顧能源與減碳的需求，吸引大批專業買主關注。",
         "source": "鉅亨網-科技產業",
-        "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1oT19sYm01UGpxaGV6OUFUQnByZVJla1Y0ck1KSlpvYnFXYkU1OFljNlNPUTgySHplbkpxSkdQS1pIMFBqcW9ZdHJlLVAxajJ5Wi1n?oc=5",
-        "published_date": "2026-10-17"
-      },
-      {
-        "title": "台股面臨外資撤出挑戰，企業布局AI與綠電助推經濟成長 - 鉅亨網",
-        "summary": "面對外資撤出挑戰，台灣企業積極布局AI與綠電轉型，成為推動經濟成長的核心動能。",
-        "source": "鉅亨網-科技產業",
-        "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1TV3cybmlld0VWZ3dUQ3dNelR3dkpIM01FdkowMlFvYzFhQlVPaW0taWgzZW8yUy1tUDhBbG1jN1pRUlRGUjdZQVF4YkJlTDFnQ05z?oc=5",
-        "published_date": "2026-10-17"
-      },
-      {
-        "title": "台股動態：遠雄推住宅案、研華強化資安、東元看好AI未來成長 - 鉅亨網",
-        "summary": "台股科技與傳產動態並進，遠雄推住宅案外，研華強化資安布局，東元則看好AI未來成長。",
-        "source": "鉅亨網-科技產業",
-        "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBCVGxMTVplLUVsTWpldTIzYVNyOUxSMmRDUVlQUVlEbUJLc2xDTkN3bjNTQThKSGExc28zazQ1aElJRFdXaDcxU1I2aVBPSEpIR1Q4?oc=5",
-        "published_date": "2026-10-17"
+        "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE92S3lUR24wSkM2Q0hPbDlCRUFKUUpuSTVhOUV0N3UzM3Q5VEwyR3NndUs2LURoNUlMU01TWTRmVkxBMUlhbjVFOGlSZE5NbUk?oc=5",
+        "published_date": "2026-10-18"
       }
     ]
   },
   "us_stocks": {
-    "market_summary": "美股在高檔震盪整理，科技股與AI相關板塊近期面臨較大賣壓與平倉潮。",
-    "tsm_adr_note": "台積電ADR隨費半指數修正同步承壓，但長線AI變革前景仍獲業界看好。",
+    "market_summary": "美股受AI泡沫疑慮與高通膨影響表現疲弱，VIX飆升，科技類股遭到明顯拋售。",
+    "tsm_adr_note": "台積電ADR隨半導體族群同步走弱。",
     "news": [
       {
-        "title": "AI陷入「疲勞交易」！投資人厭倦反覆爭論科技承諾 分析師：市場需要營收證明 - 鉅亨網",
-        "summary": "AI投資陷入疲勞交易，投資人厭倦反覆爭論，分析師認為市場目前需要實際營收來證明價值。",
+        "title": "本週操盤筆記：Meta及特斯拉財報、AI漲勢動搖、Fed升息預期 - 鉅亨網",
+        "summary": "本週市場焦點轉向Meta與特斯拉財報，同時需留意AI漲勢動搖與Fed升息預期。",
         "source": "鉅亨網-美股個股",
-        "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE03REtKNlNTOGxkUGlUVk5aZVlILVJ2OFpRM2F1cDlUd1ZGZXNWVGFqY0tWVm5xXzdTUGFsVzNNc3NuNUtieEk4Vkw1QnMxUFk?oc=5",
-        "published_date": "2026-10-17"
+        "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5EWDlZQVIweHZKTDVsRVdTd3F4TnhkaEVZSml0R08zWFFSNW1SWlVtanpxdFVkckw2U3pxM2loQ3ZjOUdRUlZFMXI3bTJvb00?oc=5",
+        "published_date": "2026-10-18"
       },
       {
-        "title": "AI交易平倉潮重創全球避險基金 亞洲基金首當其衝 - 鉅亨網",
-        "summary": "AI交易平倉潮重創全球避險基金，亞洲相關基金更首當其衝面臨資金壓力。",
+        "title": "美股繁榮是假象？AI泡沫疑慮升溫 標普500恐面臨30%修正 - 鉅亨網",
+        "summary": "市場對AI泡沫的疑慮升溫，有分析認為標普500指數未來恐面臨較大修正風險。",
         "source": "鉅亨網-美股個股",
-        "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1haklZQmR6UzlTcDFRdnFtQ1BXdlhXaGRBSG02MkYzSy05bkc2ZzBNTXdrMlVuT3FXbE4wR0tfcUs2ekI5ZmJuWktDS2E5NjQ?oc=5",
-        "published_date": "2026-10-17"
+        "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9GREdKdWhGX0lqcDBTOVRnMXROQmlUYmhkNmhUS2tCdTdHeTNPUlNQbE5RcWFNR25tc1Y0WFNGUjVqbzJ0UURmOUtaMTFWcDg?oc=5",
+        "published_date": "2026-10-18"
       },
       {
-        "title": "美銀、花旗出手限制AI代理 銀行為何開始害怕「智慧理財」？ - 鉅亨網",
-        "summary": "美銀與花旗等大型銀行紛紛出手限制AI代理，引發市場對智慧理財工具風險的關注。",
+        "title": "川普力挺AI仍有變數！為何「德州州長選戰」被點名是資料中心發展關鍵？ - 鉅亨網",
+        "summary": "川普雖然力挺AI，但德州州長選戰動向被視為未來資料中心發展的重要關鍵。",
         "source": "鉅亨網-美股個股",
-        "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5YUGVTTThUZDBqNXMxZFBneDR3bmNfanJxTFlkTzZLbUU5UnJyaUoyVW5maS1PeUVwY2dLbmVmczVaNUVqdzhvMmtodjhVUkk?oc=5",
-        "published_date": "2026-10-17"
+        "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5OelY1bXpMWmFrM1U5MjF4VndsQTNWcUhSRHRpWTF3dlBSZ21PcE41d0JhQXJqT0dIT2RVRlpOOGZIMFJXd1BFWEE1SUZUTUU?oc=5",
+        "published_date": "2026-10-18"
       },
       {
-        "title": "輝達RTX Spark筆電開賣！大模型暴瘦85% 740億參數塞進22.1GB - 鉅亨網",
-        "summary": "輝達RTX Spark筆電正式開賣，成功將740億參數大模型大幅壓縮85%塞進輕巧裝置。",
+        "title": "優分析｜美股觀察：AI投資疑慮升溫、那斯達克週跌4.5%Meta、特斯拉與SpaceX將公布財報 - 鉅亨網",
+        "summary": "那斯達克上週跌幅逾4.5%，市場正密切評估AI投資疑慮與即將公布的大廠財報。",
         "source": "鉅亨網-美股個股",
-        "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5ablF0dG90WXZYcF9pRVU3b0g1TTItdXE2RW1XUThyTHNBRE1fMU82TlpEMUY1cUJCUHEyazAyMHhQY0tYUE5SV3pUeGlWVnc?oc=5",
-        "published_date": "2026-10-17"
+        "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE0yOEVnby1BTnphUFNCOV9QSXRnVW4xdGw1LXVFUTVyWHd4QVJCMDdGOV94SDFLT1NxRHByQ29qYVc2RHY3c0FwZ2ZyMEdSa28?oc=5",
+        "published_date": "2026-10-18"
       },
       {
-        "title": "費半連跌八日 黃仁勳：動盪終將過去 AI變革才剛開始 - 鉅亨網",
-        "summary": "費半指數創下長天期連跌紀錄，黃仁勳派定心丸強調短期動盪終將過去，AI變革才剛開始。",
+        "title": "〈美股盤後〉VIX飆升！晶片、記憶體全面下殺 費半單週重挫逾11% 創逾1年半最慘 - 鉅亨網",
+        "summary": "費半指數創下逾一年半來最慘單週表現，晶片與記憶體族群全面遭遇沈重賣壓。",
         "source": "鉅亨網-美股個股",
-        "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9jWTNyTWxKVGdPUENXMnNhNDVPV0lCNm5TREVtQmRPSGdSWmU1ZGw0WEkzS0Q3N3kyYVpBNndGV1g3Qm9nc2NiYV9oRmwyUG8?oc=5",
-        "published_date": "2026-10-17"
-      },
-      {
-        "title": "費半創18年最長連跌！黃仁勳釋定心丸：AI市場波動「一切都會過去」 - 鉅亨網",
-        "summary": "針對費半創下長期連跌，黃仁勳指出AI市場波動只是過程，長期發展一切都會過去。",
-        "source": "鉅亨網-美股個股",
-        "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBZWkFHMkdGQkJGMWxwX1lXaldYOUc5bzBxbUF5emNHdUlLOEFfaHJSUE5WQTVEMDFkM2FvWURwb2pDNzB5RGZNNW83enJLd3c?oc=5",
-        "published_date": "2026-10-17"
+        "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5fNWdTbU1tMnY0QlR4a2VJOWxTb2JjUlMxeTlfWDYyZmt4bG1aVVY0R0RKZEY1SGIxcW44Wk9QWG5YcVVfRzJ3TUpQMXdSUUE?oc=5",
+        "published_date": "2026-10-18"
       }
     ]
   },
   "macro": [
     {
-      "title": "美銀：美股逢低買進仍太早 先等Fed與期中選舉落幕 - 鉅亨網",
-      "summary": "美銀認為美股此時逢低買進仍嫌太早，建議先等待聯準會與期中選舉結果落幕。",
+      "title": "本週操盤筆記：Meta及特斯拉財報、AI漲勢動搖、Fed升息預期 - 鉅亨網",
+      "summary": "本週聚焦Meta與特斯拉財報表現，並關注AI漲勢動搖與聯準會升息預期的變化。",
       "source": "鉅亨網-總經",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5tdmFXaHY0R0ZQYmI3cnl5VG44d0NfVVFzSm41TnlVT0tyTjMwMFUtYXJTNEo3cG81Sm9ZLVRVTDBMSEVHNUJJOS12NEpyX1E?oc=5",
-      "published_date": "2026-10-17"
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5EWDlZQVIweHZKTDVsRVdTd3F4TnhkaEVZSml0R08zWFFSNW1SWlVtanpxdFVkckw2U3pxM2loQ3ZjOUdRUlZFMXI3bTJvb00?oc=5",
+      "published_date": "2026-10-18"
     },
     {
-      "title": "美銀預測Fed 10月再升息！通膨升溫添變數 - 鉅亨網",
-      "summary": "美銀預測聯準會10月可能再度升息，通膨升溫為貨幣政策增添變數。",
+      "title": "Fed本月暫停升息，是否為過早樂觀的判斷？ - 鉅亨網",
+      "summary": "聯準會本月動向引發討論，市場正評估暫停升息的決定是否為過早樂觀的判斷。",
       "source": "鉅亨網-總經",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBzakxmMnBTYWlKeDg1Ukdva2ZXS1lmSXRFaHZoNThJeGc1bmxGNU5leHVUaHpWb0pqWHBPcnhJSFlHcHhoS1psRjRpVUhiS1U?oc=5",
-      "published_date": "2026-10-17"
+      "link": "https://news.google.com/rss/articles/CBMiowNBVV95cUxNTnc4cnlrR1FpMTAtdUx5aXliOHI1OVNmdV9wUWJ5UVpiS05YSVRoQmNPUGhuMUZYUVgxeTNDa0hBX1JMQ0ljeHd4LXRuS1lqY04xSzJxenp4OVFQMVJzSTcwT2E1NjkxbWVOSllWUzVEelRmVkpYU1ZOV3FRcXNlQ0hSd0ZxMWFCX2R1dnZPd2hGeTVvbE1tTzNOd2VLV2cxZ1I1dFpBa1I2OWR4ZTdmRTZHTXJHVVBSbHNmaFZHMFV6cmpabkwwTXBfejlBdGZpOVprd3FkUFoyRTFOeXlteGVONmYwWDZoZnFsR2RYOXV4VkpOcHVIMGxvaEJfZnFHWF8wR2VWa3NNeFhtd2xKbloweHJuZVg5a2tWTnpPWDQ4TnV4ZzFJVThSVXVlaTBDVWdlMHNyVWplenZDOG9KbmlUVFNCSV9FZ1pqSkI0WjRCZUhPdDdPZmVyeTZjNjh3cG11dVRkVUxVekt5QXhfTmllY1piRE9yRFZucWdBaEdrZkNnV0dmamRhRnhxVXE3WGUyZFZVNUY4V2p3MXJDT2NFNA?oc=5",
+      "published_date": "2026-10-18"
     },
     {
-      "title": "〈貴金屬盤後〉評估Fed升息訊號 金價周線收黑 - 鉅亨網",
-      "summary": "貴金屬市場評估聯準會升息訊號，金價周線收黑。",
+      "title": "聯準會升息預期降溫，對股市有何影響？ - 鉅亨網",
+      "summary": "聯準會升息預期降溫，市場正持續觀察其對整體股市後續走勢的實質影響。",
       "source": "鉅亨網-總經",
-      "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1hQU1sMG0wcDdEZG1MR2I0X0w4ZnNGaHBUMUZFdXZIdTJweHJnY2VFakdyRnJkd3RnVU0zcTZZdFFCY2FLM1YzUzRwaw?oc=5",
-      "published_date": "2026-10-17"
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOclRDUjQ1OVF4d0piN3NBd3JjUHlKTXJSOF9WSFZJU2FWM1Z6OEpERlNaVHJxXzRhOExOckd5LS1FalhmSl8tS0VkUmxFRnI5V2g2Y3BDcmdWcmU2ZUdJN0kwc3h0ODUyR2dra3NaV1pHWVpYY0xoMHFMeHp6d1Y3elBTVExMeUNhQ1lRU2RmWHlULS1nTXR0NUI4YjU1N19tbF8wbWdn?oc=5",
+      "published_date": "2026-10-18"
     },
     {
-      "title": "外資單日賣超破紀錄，是否與美國CPI數據有關？ - 鉅亨網",
-      "summary": "外資單日賣超破紀錄，市場關注是否與美國最新CPI通膨數據高度相關。",
+      "title": "中東搞砸了、俄烏談不攏、AI雲暴雷、美國高通膨——市場「災難一周」改變了什麼？ - 鉅亨網",
+      "summary": "地緣政治、AI雲端疑慮與美國高通膨交織，形塑出市場充滿挑戰的一週。",
       "source": "鉅亨網-總經",
-      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPd0xEZnh2V2lGN1lUU0Q0SDdMcExXbTBLS2tJTGh2a0dYWFM5VjVBTVhNTXVVcENjSURwdXFlRnc5Y0FCbkQ5WHkydXN6UWo2bENYWEQ1c1Q0UWNpTmVzQ1ppVS1EekQ4Nm4yN1NKbFUybnc0QkFPSGh3b0F4VUZvc1cxU3VrX2tmX0NwdjV2cHBQcV91TVRUVW41bUZodXNmR1BJVFl3?oc=5",
-      "published_date": "2026-10-17"
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFByRFRVa1o3OC1YMG1fb3U4cHdQczdoTU0teXotY2Z1eEhRWEl4V21NUjd5R3hPVlBpUzZZaTZCVFhRNGlqSmpDc3dxZFVwR0E?oc=5",
+      "published_date": "2026-10-18"
     },
     {
-      "title": "此次總經理變動，是否會影響欣欣水泥的股東結構？ - 鉅亨網",
-      "summary": "市場關注欣欣水泥總經理人事變動，是否會進一步影響其股東結構。",
+      "title": "美股受高通膨與科技股疲軟影響，投資者需謹慎應對市場波動 - 鉅亨網",
+      "summary": "受高通膨與科技股疲軟拖累，美股波動加劇，投資人操作態度趨向謹慎。",
       "source": "鉅亨網-總經",
-      "link": "https://news.google.com/rss/articles/CBMigARBVV95cUxNMWxYUXlHOHlZVEcyVDZacXBPV1Y4cnFfcTcwRFozTEE2OGlBd0VSSTdiN0hyME10YU82MFNPWnNtbGJiWDdndjhscXBlSHZ0SXNmS3E5V3g4anVBQTB3cG5QYkhuczVDME5XQ0ZvaVMxbVZnSXhTbmVia2wtbE5WeXJKREZPZXhuWksyUVFxbTh3Q0tCLWJfTXVidENTbUNldHJhRUZLelRfQ1h4d0dkY3Z5R2c0T0J3cHBwWmhUb0VLQnB6OVpOTUdQT19saUkwLWp0NXB1dXNTRWpDOEJzOTRqUzJhVVBYOUVrTzlqeU1JVUh0eXBJWTJBdXBoZnJJQjBGTEV4MkRDLWFmSkV6bmFjUTdMRFlObnQ2T3NKRXo2TE1aU2EyR19ReVphVU9jVWk3WkJJaWlsN2pTaHl5MGlJbmFRbS1fd3pWTWdtWjh3Z0FuY04tNTJ5ZWFYWE9SVEtCLXZzZUlfX2RZZzVPZ0dCMnRBU2JXYTN2aEFpQlpJZ255cXltTXBRNk4ycHJTS3l0VGNSUG16YWVVYUdtSzQwcE1Hb1pfTnF0WDh0V01mekM0TlJ2TWhPbGw4eEo5cU43NmpnSGw4TFVQdUI3cnhmMjM3QW9zamRBZTRrUml3QW5zODh1MUw4RU1fRDJESXBXRzRXWHlKQ2JCY044Ng?oc=5",
-      "published_date": "2026-10-17"
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9SZnFkR2tCY3I3ZVduZUt0WUN2ZUJ3R1AzWjN0dHhmR242VE5adFBlUXFPYi02RmNlbUVURXZvUG94Z015LUhUZjk2SE43bmNDdHVZ?oc=5",
+      "published_date": "2026-10-18"
     },
     {
-      "title": "聯準會升息是否能重塑政策公信力，對股市會產生怎樣的影響？ - 鉅亨網",
-      "summary": "探討聯準會升息是否能重塑政策公信力，以及對整體股市可能產生的深遠影響。",
+      "title": "尼得科超眾的客戶結構，水冷散熱產品佔比如何？ - 鉅亨網",
+      "summary": "供應鏈消息指出尼得科超眾的客戶結構與水冷散熱產品佔比備受市場關注。",
       "source": "鉅亨網-總經",
-      "link": "https://news.google.com/rss/articles/CBMitwRBVV95cUxQR3dYeEdUcmtrcWZId3YzelVOQnZmQ09WTGg2cG01Y0JucUFpSDVJU3Z3ZHZCMFRlaW8ycU5mMGZtOFVmWktXeFhOek1qQlpuUl9EWUxVcUhjZVVoWXA3NWc5aHVCenl1ZTdvdllOTFNtdG5yMzRWdGxINV9CMEJRSWJnMWJ5d295TWtvdkVaSHNXS0w5OURXYWFEWXZqdGl4TksweGJkRGwwRk9tRHZqRW1jWFljc1BaZXZtVzBKdFFtT2t1VGFTZ1hnQk4xeGMwd20yUnphMkdTNnhkWmJObFljYUFRTTJNRjVoYURvRldoYjBJNWh3b3I2VEwtOW9PUlFEc0pQaGJUWE80ZlpYT2J3aElBSjdUSFk1M1ZUVnI4dVpoVGY1TTd5bS0wSUlzNzRjTTl4Uy1tTkFfOGFpTUlRU2ktaTh5NUpvNzN6em80TEZwY0Jxa2ZGNi1oaTdKOFpsMm9WUGsydThKS0lzMjA1d0tfXzZoM1R3ZnptcHNIUVlydWR4Zl9JYXNmMXNKVGxLaG5teVJ2Z3M4ZXRrYWRscHkxbUpvNm1fR0tGNHVoaEx6dVYtUXNoZGtJQUl4aE5oaEhTcVRsZUV4a05vTG5WZDhXUWVoRW5lc0lzbVU4Y2I1VlV4b0N5UXh2by1JLU95eXJXRGxTcldDVldoTC1vOFh6bHVHVVBXdkF3V3lfcUlEUHJqY2hWUEQ1Y0RVU1daWUxVaC1GelVlTDNuRW5ROGljRms?oc=5",
-      "published_date": "2026-10-17"
+      "link": "https://news.google.com/rss/articles/CBMi7wNBVV95cUxPaWJrQnpXNjY0eGZUYUJrSnlkVFJIdU9MT2lXWFhnajMxQnZQQ2lPM2I5OVRPOGVnbEFzZUMtR0UyY2IwZkRiWnlPdXBYMjZ0Ym9IUndBNFBmMXBwU3pZd1lOWFMyaHJ1LTJhZHZRdDNPNDlaUjE1cmxpSGFBZEMzb1J6Z0dmeXJlN24tWEdBc01HeTZuRjlqcjQybDBuQU1abjJxNlpHeklFTjl2aHo4am9OYU11UzI5WnNhTUk2M0JSNEdmUUw0Rkh1WGlKZEdza0JtWi1mdG9tak5CdmR2MnpnWVM4ZW0xNUpIbVhtM1A4X21IRG8tWWNfLVVSRTJvbDNabHRfZWJpb1p5aGJabDJpTmMzeEpJVVJ4XzJSemt6OWZoampJWU5OMmZCbWhGOUZ1ZGlkVHJDR3BmVGJGalpMV0tUSU5kZWNjbWNTSzc4WmtjaVZhdjFRTGhnSkJIUEhITC12Q0Ntdm1XYU5xSGM3RVFLWk5QMno2cDAzTVBwdmY1Z0k2M2FGMnVyRXBvM2d6ZnNWU0lELVBpN18yLUZFM3BBRjNkZTI1ZzNxWldRWmxMSi15YVdZQWZHZlpDeWY2QUp4NDk4VFJDYmdRaHdKMTczZmFNdXlnQzk4OENBdEFrMTNQNTViLVVTMlU?oc=5",
+      "published_date": "2026-10-18"
     },
     {
-      "title": "華許曼谷發言「偏鴿」，市場押注聯準會10月按兵不動，升息機率跌破15% - 鉅亨號",
-      "summary": "官員曼谷發言偏鴿，市場押注聯準會10月將按兵不動，升息機率一度跌破15%。",
-      "source": "鉅亨網-總經",
-      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE01RVhWWlFLRWk3RDNOTEpkZWtfczhmV3pnZEVOaVBjcUhWcGYteEdLMWZnMmtZRnJzQXNqcE41QkZjZ1JMX0ptUA?oc=5",
-      "published_date": "2026-10-17"
-    },
-    {
-      "title": "華許夜間談話說了什麼、又沒說什麼？一文掌握Fed政策線索 - 鉅亨網",
-      "summary": "解析聯準會官員夜間談話內容，助投資人精準掌握未來貨幣政策走向的線索。",
-      "source": "鉅亨網-總經",
-      "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5EbkFhdnJybHEzVjRnYUJmTU92blVyZlhwdVJhTks2VE1meVJzSU9lS0JHNEVaOER6MXdNc1RObXpYeW0zZEQ4WVNRVQ?oc=5",
-      "published_date": "2026-10-17"
-    },
-    {
-      "title": "不只油價在漲！美國進口物價創逾四年最大漲幅 Fed本月還能按兵不動？ - 鉅亨網",
-      "summary": "美國進口物價創下逾四年最大漲幅，加上油價走揚，讓聯準會本月是否能按兵不動充滿變數。",
-      "source": "鉅亨網-總經",
-      "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE40N3VrU01DQzdVSU5OMm1uWmlBeW5waUJLWndzN3B1WHdEZFY0d3ZTWko5ZU5QMXJfMVRtR0pkN2MzcEtNSlBnejNRSQ?oc=5",
-      "published_date": "2026-10-17"
-    },
-    {
-      "title": "美聯準會升息不確定性加劇，科技股輪動與全球經濟韌性吸引投資者關注 - 鉅亨網",
-      "summary": "聯準會升息不確定性加劇，引發科技股輪動，全球經濟韌性持續吸引投資人關注。",
-      "source": "鉅亨網-總經",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE95Qy1ZQkVPODlXZnJhME01V1h6M1BYc3h0S3l4Y0dheGptN2FIMER3eW9HenRMWG42cUZqMXhfMGtyaV9ubGhCZl9UbDREeWd6Qnc4?oc=5",
-      "published_date": "2026-10-17"
-    },
-    {
-      "title": "美國進口物價創四年新高，聯準會升息預期降，市場面臨挑戰與機遇 - 鉅亨網",
-      "summary": "美國進口物價攀上四年新高，聯準會升息預期降溫，使市場面臨挑戰與機遇並存。",
-      "source": "鉅亨網-總經",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBFTk1Db0d6WXhjNG5YNndXR2NuTXN5OEE1RFBCRzFDbE9OcFlYODYxR0I3WXpMV0dwVXBJTzdVNmdLc1BvRDhyTGRtVWw4N0hKVGVv?oc=5",
-      "published_date": "2026-10-17"
-    },
-    {
-      "title": "美股因聯準會放緩升息預期回暖，科技股與生技股表現分化 - 鉅亨網",
-      "summary": "美股因聯準會放緩升息預期而回暖，但科技股與生技股表現出現明顯分化。",
-      "source": "鉅亨網-總經",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE95SXZnVDltS20tR29wa0ZIeG9SZGlfeFktVDNROXFMaDR0TWFmR293YUZGTVUzUW5kWjhQck1kZjkyblhFUHA5OXN5X2hTeVpvRFVN?oc=5",
-      "published_date": "2026-10-17"
-    },
-    {
-      "title": "全球經濟新動態：宏正創新、央行政策影響及科技能源合作加速發展 - 鉅亨網",
-      "summary": "全球經濟迎來新動態，包含宏正創新、央行政策影響及科技能源合作加速發展。",
-      "source": "鉅亨網-總經",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5ZRnhUeUVrVXM4Xzg3aWdZc19sd29ZLXJ1X2ZGMWs4aE92azRYWmxHTzhXbmFOV1FlRG9Ddm5JUU1FT25ITGxHMXBVMmt2NHJ4dHJj?oc=5",
-      "published_date": "2026-10-17"
+      "title": "台股亂流還沒完？ 周冠軍分析師欽點「8檔抗跌股」 操盤心法全揭露",
+      "summary": "台股周線大跌後震盪未歇，分析師點名部分抗跌股作為亂流中的操作參考。",
+      "source": "Yahoo奇摩股市-研究報告",
+      "link": "https://tw.stock.yahoo.com/news/%E5%8F%B0%E8%82%A1%E4%BA%82%E6%B5%81%E9%82%84%E6%B2%92%E5%AE%8C-%E5%91%A8%E5%86%A0%E8%BB%8D%E5%88%86%E6%9E%90%E5%B8%AB%E6%AC%BD%E9%BB%9E-8%E6%AA%94%E6%8A%97%E8%B7%8C%E8%82%A1-%E6%93%8D%E7%9B%A4%E5%BF%83%E6%B3%95%E5%85%A8%E6%8F%AD%E9%9C%B2-111133098.html",
+      "published_date": "2026-10-18"
     }
   ],
   "ai": [
     {
-      "title": "India becomes the latest country to report rogue AI agent activity",
-      "summary": "印度成為最新回報遭遇「失控AI代理（rogue AI agent）」活動的國家，資安隱憂浮現。",
+      "title": "Meta removes language that raised scraping and AI training concerns",
+      "summary": "Meta微調了服務條款中引發外界對數據爬蟲與AI訓練疑慮的相關字眼。",
       "source": "TechCrunch-AI",
-      "link": "https://techcrunch.com/2026/10/16/india-becomes-the-latest-country-to-report-rogue-ai-agent-activity/",
-      "published_date": "2026-10-17"
+      "link": "https://techcrunch.com/2026/10/17/meta-removes-language-that-raised-scraping-and-ai-training-concerns/",
+      "published_date": "2026-10-18"
     },
     {
-      "title": "An Nvidia insider-turned-VC on why robotics hasn’t hit its ChatGPT moment, yet",
-      "summary": "前輝達資深高管轉任創投指出，機器人領域目前仍在「樂高時代」，基礎架構正在重建。",
+      "title": "Anthropic says its workforce has become less junior and is spending more time in meetings",
+      "summary": "Anthropic透露其團隊結構在過去一年逐漸資深化，且花費在開會的時間增加。",
       "source": "TechCrunch-AI",
-      "link": "https://techcrunch.com/video/a-nvidia-insider-turned-vc-on-why-robotics-hasnt-hit-its-chatgpt-moment-yet/",
-      "published_date": "2026-10-17"
+      "link": "https://techcrunch.com/2026/10/17/anthropic-says-its-workforce-has-become-less-junior-and-is-spending-more-time-in-meetings/",
+      "published_date": "2026-10-18"
     },
     {
-      "title": "Physical AI is more than robots, says the Nvidia veteran now investing in it",
-      "summary": "專家指出實體AI的範疇不只是機器人，相關硬體與軟體標準仍在持續建構中。",
+      "title": "Replit makes OpenAI its default over Anthropic, CEO says",
+      "summary": "程式開發平台Replit宣布將OpenAI取代Anthropic成為預設模型提供商。",
       "source": "TechCrunch-AI",
-      "link": "https://techcrunch.com/podcast/physical-ai-is-more-than-robots-says-the-nvidia-veteran-now-investing-in-it/",
-      "published_date": "2026-10-17"
+      "link": "https://techcrunch.com/2026/10/17/replit-is-no-longer-working-with-anthropic-ceo-says/",
+      "published_date": "2026-10-18"
     },
     {
-      "title": "Elorian’s first AI model wants to reason with images, not just about them",
-      "summary": "Elorian推出全新AI模型，主打能直接針對圖像進行深度推理，而不僅僅是描述圖像。",
-      "source": "TechCrunch-AI",
-      "link": "https://techcrunch.com/2026/10/16/elorians-first-ai-model-wants-to-reason-with-images-not-just-about-them/",
-      "published_date": "2026-10-17"
+      "title": "RTX Spark Ignites Global Celebration as New Windows PCs Arrive",
+      "summary": "NVIDIA推出搭載Blackwell架構與本地AI平台的RTX Spark系列筆電。",
+      "source": "NVIDIA 官方部落格",
+      "link": "https://blogs.nvidia.com/blog/local-ai-rtx-spark-windows-laptops-celebration/",
+      "published_date": "2026-10-18"
     },
     {
-      "title": "How Itaú is building generative AI for its entire customer base",
-      "summary": "巴西Itaú銀行透過OpenAI技術建立生成式AI對話介面與治理平台，全面推進AI優先策略。",
-      "source": "OpenAI 官方新聞",
-      "link": "https://openai.com/index/itau-generative-ai",
-      "published_date": "2026-10-17"
-    },
-    {
-      "title": "Google 推最強 AI 模型 Gemini 4 Argon！亮點有哪些？誰能用、API 多少錢一次看 - 未來商務",
-      "summary": "Google正式推出最強AI模型Gemini 4 Argon，全面公開亮點、適用對象與API定價。",
+      "title": "丟試算表就生成 30 秒動畫！Claude Motion 怎麼用、有使用限制嗎？3 步驟教學 - 未來商務",
+      "summary": " Claude推出可將試算表直接轉為30秒動畫的Motion新功能與操作教學。",
       "source": "數位時代",
-      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFAxZUcwWjVlMDRVdFA1NnFIaTA2N2lSQ0VtUUJHQjlmcnhzMjNjMVlRRlJ4RU90bllaSThLSDFFTVBERkh1Qm5LbjJUdE1Jam45Z18zeQ?oc=5",
-      "published_date": "2026-10-17"
-    },
-    {
-      "title": "友達30周年揭AI布局進度！玻璃基板、Micro LED光通訊、半導體材料一次盤點 - 數位時代",
-      "summary": "友達30周年大秀AI布局進度，盤點玻璃基板、Micro LED光通訊及半導體材料應用。",
-      "source": "數位時代",
-      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPMGJDdUFra2xVbExpUzdFVXVNQVd0WEVjeVc5SGQ3ek5QZFFkLUhOelBlVFpXTFljRHZOWEh4RHZSMlV2VE84ZTcxYTFfSkc0c09CUkhrSWdOZE1OY3lXOEFNMnhETlFxeHFYbmJBVEdzdnBmOHh0UWdVdjVfV3BVcmN1ajdRaXRUZUkzQ3hDdw?oc=5",
-      "published_date": "2026-10-17"
-    },
-    {
-      "title": "AI人才缺口在哪？台灣企業會用AI卻還不是設計者，學習力之後創造力成AI時代關鍵 - 數位時代",
-      "summary": "調查顯示台灣企業多數為AI使用者而非設計者，未來學習力與創造力將是關鍵分水嶺。",
-      "source": "數位時代",
-      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBWZllJODZrSVdjeGhrVVBhWEM5LVdfX3JSdGpQcUdOUlI4OGt5MVdtaWtSbzEzWUpGc09MSk02SnhZTi1yN05OczNmSngwcFJaMG56TExEM3l1NGNBbGhVdVNkcGYyRnN3RHNtbWlUdVktbElB?oc=5",
-      "published_date": "2026-10-17"
+      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9Vc3Q1RlpCYVRzLVRTQ0FQSXlydEplTldTSXF2S3MxcWE5by00M1lzVy1mU2ZnZFNkMExNdm50eXdONGNxS200ak94cEF1MXZPSUxOQQ?oc=5",
+      "published_date": "2026-10-18"
     }
   ],
   "startup": [],
-  "closing_note": "投資路上穩健前行，祝您今天順心！"
+  "closing_note": "穩健布局，順勢而為！"
 }
