@@ -1,246 +1,191 @@
 {
-  "greeting": "早安！週末休息也別忘掌握財經脈動，今天市場氣氛審慎中帶點機會。",
+  "greeting": "早安！新的一週開始，讓我們一起掌握最新的財經脈動吧！",
   "taiwan_stocks": {
     "night_futures_note": "今日無夜盤資料，建議至台灣期貨交易所官網查看",
-    "top_volume_note": "主動中信台灣收益成交量突破10.4億股居冠，成為市場矚目焦點。",
-    "hot_sector_note": "特選大蘋果報酬反向一倍指數表現最強，逆勢上漲3.18%。",
+    "top_volume_note": "成交量最大個股為主動中信台灣收益(00406A)，成交量突破10億股。",
+    "hot_sector_note": "表現最熱的類股為特選大蘋果報酬反向一倍指數，漲幅達3.18%。",
     "news": [
       {
-        "title": "台積電上看4000元？先進製程爆動能　專家揭「AI定海神針生態系」選股策略",
-        "summary": "台積電第三季法說會營收亮眼，先進製程與AI生態系動能強勁，外資樂觀看待中長期展望。",
-        "source": "Yahoo奇摩股市-台股動態",
-        "link": "https://tw.news.yahoo.com/%E5%8F%B0%E7%A9%8D%E9%9B%BB%E4%B8%8A%E7%9C%8B4000%E5%85%83-%E5%85%88%E9%80%B2%E8%A3%BD%E7%A8%8B%E7%88%86%E5%8B%95%E8%83%BD-%E5%B0%88%E5%AE%B6%E6%8F%AD-ai%E5%AE%9A%E6%B5%B7%E7%A5%9E%E9%87%9D%E7%94%9F%E6%85%8B%E7%B3%BB-%E9%81%B8%E8%82%A1%E7%AD%96%E7%95%A5-150000567.html",
-        "published_date": "2026-10-24"
+        "title": "台股最新動態：鴻海增資12億美元、玉晶光獲3M投資，科技產業韌性持續增強 - 鉅亨網",
+        "summary": "鴻海宣布增資12億美元，同時玉晶光獲得3M投資，顯示台灣科技產業供應鏈的資本佈局與國際合作持續深化。",
+        "source": "鉅亨網-科技產業",
+        "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFA2R09KR3k5Y3dreDRBbGxZZVpmLXJ3S19FOTBKdlFEZ3JfY3p2cEpJNWFuN1RzS3pmdjYwNkZlVUNKZWphd0pIX0dnaWdZeGFRN3Zn?oc=5",
+        "published_date": "2026-10-25"
       },
       {
-        "title": "台股動態：鴻海增資擴張、台積電員工福利提升，科技產業增長潛力強勁 - 鉅亨網",
-        "summary": "鴻海積極增資擴張，台積電提升員工福利，台灣科技產業整體增長潛力持續看好。",
+        "title": "台股動態：鴻海增資12億美元，台積電重視員工福利，光學產業迎挑戰與機遇 - 鉅亨網",
+        "summary": "鴻海持續擴大海外與本業投資規模，台積電強化員工福利，光學產業在挑戰中尋求新的發展機遇。",
         "source": "鉅亨網-科技產業",
-        "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5KSWlTX2c3RmpzYVJjbU4xeEJvM0wxSWZ2Z0hoSG5ic09YeV9CU0VZb3ZFbHViM0ktZ3IzZ0t2a3RhUGc3ZW1OZE1UanJfX3JHb3Zv?oc=5",
-        "published_date": "2026-10-24"
+        "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5taElmcjEyeS00V3AzM2JFdjdtMHgyck8yX3FndWlJbVBhREVobWEzRUQ0WnVtbFNfOXBNMHBJSDlDRWwyMkkxSkRXaG94ZVY0cFRz?oc=5",
+        "published_date": "2026-10-25"
       },
       {
-        "title": "科技與市場波動交織：記憶體、AI競爭及資本挑戰新局勢分析 - 鉅亨網",
-        "summary": "面對記憶體市場波動與AI競爭加劇，科技產業正迎來全新的資本挑戰與局勢。",
+        "title": "台股韌性持穩，科技醫療股吸引投資者，鴻海擴張與玉晶光增資顯示成長潛力 - 鉅亨網",
+        "summary": "台股展現抗跌韌性，科技與醫療類股持續吸引資金目光，鴻海擴張與玉晶光增資備受市場關注。",
         "source": "鉅亨網-科技產業",
-        "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE4yYnBSSEhxVGxPeHdSUVZRMkozbE5NV3A2MjZmQlYxdFVlVUJRT1cyQlhMY3Q3b3dqXzZ1OTlESVUwX1VtNUNpbE52OEl5TXkzaWdz?oc=5",
-        "published_date": "2026-10-24"
-      },
-      {
-        "title": "台股市場動態：科技股上漲、房貸需求回升，颱風影響金融市場休市 - 鉅亨網",
-        "summary": "儘管受颱風影響休市，台股科技股在基本面支撐下展現相對韌性與上漲動能。",
-        "source": "鉅亨網-科技產業",
-        "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9QaEhua2ZhM0YwSUVNQ2hyM1dOYmNXamFJRWFfSHg5dDJYdmd4a0ZXS1VXcUg5OThsdDRNM0dvWXJZZFlReDJlOXNmby05TnUtMjhZ?oc=5",
-        "published_date": "2026-10-24"
+        "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9YYUZOc3VFVzdBaUFXS3RQREVtd3ZHczh3UWtqU2NQMno4U2U5X1BmSUdqb2lqNzBjYUNnenkwMlNGT2lQN21Zc3JWdG5ULVlVVno0?oc=5",
+        "published_date": "2026-10-25"
       }
     ]
   },
   "us_stocks": {
-    "market_summary": "美股受油價衝破百元及中東局勢影響，道瓊重挫逾650點，科技股與AI族群面臨明顯拋售壓力。",
-    "tsm_adr_note": "台積電ADR在費半小幅反彈之際逆勢上漲1.49%，表現相對抗跌。",
+    "market_summary": "美股本週面臨AI巨頭財報與聯準會利率決策的雙重考驗，市場觀望氣氛濃厚。",
+    "tsm_adr_note": "受美股科技股震盪與長假效應影響，台積電ADR走勢備受壓力。",
     "news": [
       {
-        "title": "輝達、特斯拉砸910億新台幣注資三星！2028投產恐衝擊台廠",
-        "summary": "輝達與特斯拉聯手注資三星910億元擴建高階載板產線，預計2028年投產恐對台廠造成長線壓力。",
+        "title": "輝達簽40億美元協議炸封測大戰！美銀點「這檔」有望獲10億營收　欽點下一個爆發題材：需求飆10倍",
+        "summary": "輝達在GTC大會與日月光矽品、京元電及Amkor簽署高達40億美元封測協議，供應鏈商機引發美銀關注。",
         "source": "Yahoo奇摩股市-國際財經",
-        "link": "https://tw.news.yahoo.com/%E8%BC%9D%E9%81%94-%E7%89%B9%E6%96%AF%E6%8B%89%E7%A0%B8910%E5%84%84%E6%96%B0%E5%8F%B0%E5%B9%A3%E6%B3%A8%E8%B3%87%E4%B8%89%E6%98%9F-2028%E6%8A%95%E7%94%A2%E6%81%90%E8%A1%9D%E6%93%8A%E5%8F%B0%E5%BB%A0-122247066.html",
-        "published_date": "2026-10-24"
+        "link": "https://tw.stock.yahoo.com/news/%E8%BC%9D%E9%81%94%E7%B0%BD40%E5%84%84%E7%BE%8E%E5%85%83%E5%8D%94%E8%AD%B0%E7%82%B8%E5%B0%81%E6%B8%AC%E5%A4%A7%E6%88%B0-%E7%BE%8E%E9%8A%80%E9%BB%9E-%E9%80%99%E6%AA%94-%E6%9C%89%E6%9C%9B%E7%8D%B210%E5%84%84%E7%87%9F%E6%94%B6-%E6%AC%BD%E9%BB%9E%E4%B8%8B-121000173.html",
+        "published_date": "2026-10-25"
       },
       {
-        "title": "輝達、特斯拉砸900億綁定三星載板！法人示警：台廠恐長線衝擊",
-        "summary": "科技巨頭為防堵AI晶片載板短缺，砸重金綁定三星產線，法人示警將對台灣供應鏈帶來長期挑戰。",
-        "source": "Yahoo奇摩股市-國際財經",
-        "link": "https://tw.stock.yahoo.com/news/%E8%BC%9D%E9%81%94-%E7%89%B9%E6%96%AF%E6%8B%89%E7%A0%B8900%E5%84%84%E7%B6%81%E5%AE%9A%E4%B8%89%E6%98%9F%E8%BC%89%E6%9D%BF-%E6%B3%95%E4%BA%BA%E7%A4%BA%E8%AD%A6-%E5%8F%B0%E5%BB%A0%E6%81%90%E9%95%B7%E7%B7%9A%E8%A1%9D%E6%93%8A-100312909.html",
-        "published_date": "2026-10-24"
-      },
-      {
-        "title": "半導體設備股災還沒完？花旗示警應材、科林研發、科磊恐再跌3成 - 鉅亨網",
-        "summary": "花旗發布警示指出半導體設備股災未歇，應材、科林研發與科磊等大廠恐面臨進一步修正風險。",
+        "title": "亞馬遜砸2200億美元投資AI仍遠不夠！CEO：AI業務年化收入超250億美元、2027算力幾乎售罄 - 鉅亨網",
+        "summary": "亞馬遜執行長指出AI投資需求依然強勁，預估2027年算力將幾乎售罄，年化收入突破250億美元。",
         "source": "鉅亨網-美股個股",
-        "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5hUEpJOFh1aEx5ajNTQXNaSEo5Y01sbm1Ca29xVGFIWTJjdmFLbGwwa1pOdW1MY3dHVVBSUm1OcHB6OFZqSjVGMm9PUTktbGM?oc=5",
-        "published_date": "2026-10-24"
+        "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9BdDlpeTRIbVQ2RExOVTBIWWNmRmNtN3ctalZKY2VKVS1oM0dsUExLbzFoOWV2cG5Mbk1xeTNyMGhtUmlza3lqVjktOFBmTE0?oc=5",
+        "published_date": "2026-10-25"
       },
       {
-        "title": "美光下一代AI記憶體突破面臨散熱難題！vHBM瞄準2028年量產、頻寬升級成關鍵 - 鉅亨網",
-        "summary": "美光新一代AI記憶體vHBM突破面臨散熱難題，瞄準2028年量產，頻寬升級成為技術關鍵。",
+        "title": "英特爾2045年3D晶片布局曝光！高層示警先進晶圓產能難增10倍 - 鉅亨網",
+        "summary": "英特爾公布至2045年的3D晶片布局藍圖，同時高層示警先進晶圓產能要大幅增加面臨高度挑戰。",
         "source": "鉅亨網-美股個股",
-        "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9KcV9nNXdWSjFmZTNRNC1pU1o1RlpyNDFSUVV6TFJ5b20tV200VzV1Nm1TZ3BvelNyV3dXeXlKLU1IS1hPSG9YcVVmUGh0bUE?oc=5",
-        "published_date": "2026-10-24"
+        "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE51bThSbFdnOHJsR2tlVFFJdm1mdFBxOHlvRXA1QjJnZUtjU0VvMGZFeHROZE5Td1J1b0llXzZ2Q2U1MmFOWHlTZ2ZxYW9QME0?oc=5",
+        "published_date": "2026-10-25"
       },
       {
-        "title": "輝達分析師示警：2027年規劃中AI資料中心容量恐有45%無法建成 - 鉅亨網",
-        "summary": "分析師示警2027年規劃中的AI資料中心容量，恐有高達45%因故無法順利建成。",
+        "title": "一場IPO喊卡牽動記憶體市場！美光Sandisk受惠、英特爾失潛在大單 - 鉅亨網",
+        "summary": "市場上一場IPO喊卡意外牽動記憶體版圖，美光與SanDisk迎來轉單利多，英特爾則錯失潛在大單。",
         "source": "鉅亨網-美股個股",
-        "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFAyUXM4eUYtMnRxZVJ6eDJDU3U3WXJfei0yYk15Vi1DQ3pLV2FSMEUzSlNTZjF3Q2NQT1lsWlF0Tnp4SVk1YXZlY0V3M2Vqa2c?oc=5",
-        "published_date": "2026-10-24"
+        "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1TTUhTQjhGNGVpOEwyMTNTanB5Yk5QVEVpVHRMQzVzWHl1dUhiWmdpWHY5cFQ3eVdtai1ZcWZYdnRTcWNhRWcxUXZQTHRlTEE?oc=5",
+        "published_date": "2026-10-25"
       },
       {
-        "title": "AI需求爆棚卻缺錢！黃仁勳：資金需求遠超供給 新型雲端業者融資受考驗 - 鉅亨網",
-        "summary": "黃仁勳指出AI需求遠超供給且資金需求孔急，新型雲端業者的融資能力正接受嚴峻考驗。",
+        "title": "AI交易何時止跌？市場緊盯Meta發債背後的「融資兩難」 - 鉅亨網",
+        "summary": "Meta近期發債動作頻頻引發市場對AI資本支出融資兩難的討論，投資人正密切評估AI交易的支撐力道。",
         "source": "鉅亨網-美股個股",
-        "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5CZVMyNDhkUEdVeEN0X0t5b0RCNjBwZ2ZMZXljX3BBeFBMX0FmTVVKYzBUbE9GRndqZjZOUEs4a1c5VWxUbzlxZExDU2Z4a1U?oc=5",
-        "published_date": "2026-10-24"
+        "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE51akFNWTNSeFJsazdWdjE1Y3FiTFpGaFR6dlltdjFxcC1BSDlDRFluUnpTc2x6a2NzTXVPeEYxeHlGRjM2RXZqZXB5Y1FNOHc?oc=5",
+        "published_date": "2026-10-25"
       },
       {
-        "title": "金價跌破4000美元，美股科技股遭拋售，東台股價創新高，日本CPI升息預期加劇 - 鉅亨網",
-        "summary": "金價跌破4000美元大關，美股科技股遭到資金拋售，全球市場波動明顯加劇。",
-        "source": "鉅亨網-科技產業",
-        "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5Rc3ZHcXRiaDZSMm1HN3BBMWFhV29MZm9VN21hNUtldnFEQnQycURadkJzdUdzaHdlczJldU1ET3NWM29lRGlWSkFNb19kdHdnZWZF?oc=5",
-        "published_date": "2026-10-24"
-      },
-      {
-        "title": "瑞士股市逆勢上揚，AI需求推動雲端服務，但科技與能源面臨挑戰 - 鉅亨網",
-        "summary": "AI強勁需求持續推動雲端服務發展，但整體科技與能源板塊仍面臨不小的營運挑戰。",
-        "source": "鉅亨網-科技產業",
-        "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE50S2tGdHVDODM1RjNhUDdnVUNMRHhWVEJnbGJYbXZodHRjaVRwcmFaOEFhWXJNRFlBaXJvVElqby1nZmFrS0tVanBFUUlWRWhjWHR3?oc=5",
-        "published_date": "2026-10-24"
-      },
-      {
-        "title": "馬斯克科技帝國擴張遭遇挑戰，全球市場因中東局勢動盪而震盪 - 鉅亨網",
-        "summary": "馬斯克的科技帝國擴張遭遇逆風，在全球地緣政治與中東局勢動盪下備受考驗。",
-        "source": "鉅亨網-科技產業",
-        "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE82eXp1aFpOSTJmLXJVYVM4M1RmOUNGei05VE40d3NxdlRBSEFyUW5JWEU2VFJ1SUFVSlhicV9TUUlNckdwVldLVURnaG1qODdYSklv?oc=5",
-        "published_date": "2026-10-24"
-      },
-      {
-        "title": "科技熱潮下美股波動加劇，投資者需謹慎應對AI與半導體挑戰 - 鉅亨網",
-        "summary": "在科技熱潮與美股波動加劇的環境下，投資人對於AI與半導體領域的挑戰需保持謹慎。",
-        "source": "鉅亨網-科技產業",
-        "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBWdTBKdHJKVmtRaU03U0xnQlZJMUc0c1piWGZDOG5sVzJ5anJoU3JKMDJjQVJfdDBnTUJweXRrN0Q4cFlkTGZGSUwyVzF1LUZERWRn?oc=5",
-        "published_date": "2026-10-24"
+        "title": "蘋果摺疊機iPhone Duo螢幕「超脆弱」？有人用不到6小時、折不到20次就破裂 - 鉅亨網",
+        "summary": "蘋果新款摺疊機iPhone Duo傳出耐用度疑慮，部分測試顯示其螢幕在短時間與極少次數折疊後出現破裂狀況。",
+        "source": "鉅亨網-美股個股",
+        "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1YRTFhM3htTUxxSFB0RjhjXy1SWFhoSVV2cU5IenpyQV9CM0JUQUZuNkJpbEFaNHlLdXY4eGxRMWVlRy1CSFpKdmx0VllxS0k?oc=5",
+        "published_date": "2026-10-25"
       }
     ]
   },
   "macro": [
     {
-      "title": "Fed週三會議有哪些看點？專家：短期升息壓力仍在 - 鉅亨網",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiT0FVX3lxTE1BZVBQcVIwcGF2bkh4Y3BUZWtsWHJZcGZWMHdwMmdiTkJJVTV1Qkp6TVhJcm9Zd283eGd2eHZZa1NMVG8wdUJFLTlERHBNelE?oc=5\" target=\"_blank\">Fed週三會議有哪些看點？專家：短期升息壓力仍在</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">鉅亨網</font>",
+      "title": "本週操盤筆記：Fed議息會議、歐加日紐泰央行利率決議、谷歌微軟英特爾財報 - 鉅亨網",
+      "summary": "本週全球金融市場將迎來超級央行週，包含Fed利率決議及多家科技巨頭財報表現將是重中之重。",
       "source": "鉅亨網-總經",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1BZVBQcVIwcGF2bkh4Y3BUZWtsWHJZcGZWMHdwMmdiTkJJVTV1Qkp6TVhJcm9Zd283eGd2eHZZa1NMVG8wdUJFLTlERHBNelE?oc=5",
-      "published_date": "2026-10-24"
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBKc3ZPei1FazVzb25UX3BmaVRXSXRxdUt2ZHpSQXVlck1nNXZZR0t4Ty1IblpoTFpsYVd3bFR1WGRJZWp1WkVWQmktTVFwdEk?oc=5",
+      "published_date": "2026-10-25"
     },
     {
-      "title": "美債殖利率急跌、企業信用風險飆升！前Fed顧問：美國恐已陷衰退！ - 鉅亨網",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiT0FVX3lxTE9haWludkZGR2xyVlhmNk5tcHN5QkNqTEotY1B2MkQwRVF2V0h1akZoMjhpbTAyUjBLei01OC1nZkp1OXFSeDJJTENRZXAtMG8?oc=5\" target=\"_blank\">美債殖利率急跌、企業信用風險飆升！前Fed顧問：美國恐已陷衰退！</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">鉅亨網</font>",
+      "title": "聯準會下周大機率不升息，市場為什麼未必上漲？ - 鉅亨號",
+      "summary": "市場普遍預期聯準會下週將維持利率不變，但分析指出投資人對此結果未必會直接反應利多。",
       "source": "鉅亨網-總經",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9haWludkZGR2xyVlhmNk5tcHN5QkNqTEotY1B2MkQwRVF2V0h1akZoMjhpbTAyUjBLei01OC1nZkp1OXFSeDJJTENRZXAtMG8?oc=5",
-      "published_date": "2026-10-24"
+      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9CVVFRYVV3dGVnaE1vaVlaNG5hMUlqTGpUOHRtVTRNZi11dkYySzJrQUx6MUs1NHFCeU1IRHhscWFMeHVrSFRmWg?oc=5",
+      "published_date": "2026-10-25"
     },
     {
-      "title": "美股市場面臨科技挑戰與法國示威影響，聯準會會議前景不明 - 鉅亨網",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiU0FVX3lxTE9KUWdqOFNpUk1lQ3hOSHM4TVNUQi1WU3ltczdNR3ZfUGppbWhzbkU2aU5vSWViRTdHNk1YQnZpOUMzVlBVM0pFdUNjS2NsYUE0Zk5R?oc=5\" target=\"_blank\">美股市場面臨科技挑戰與法國示威影響，聯準會會議前景不明</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">鉅亨網</font>",
+      "title": "高盛警告：聯準會12月加不升息 市場可能都沒準備好 - 鉅亨網",
+      "summary": "高盛發布警告指出，若聯準會12月動向與市場預期產生落差，投資人恐面臨措手不及的風險。",
       "source": "鉅亨網-總經",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9KUWdqOFNpUk1lQ3hOSHM4TVNUQi1WU3ltczdNR3ZfUGppbWhzbkU2aU5vSWViRTdHNk1YQnZpOUMzVlBVM0pFdUNjS2NsYUE0Zk5R?oc=5",
-      "published_date": "2026-10-24"
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9QM2tMZmQzMHlpVFZEWXZaV3NicW55WDAxUVUxSlBoMXRBMjJVLTRwVEt3LWNUSkhIcHlKS2dTSy1OQ0JvdTVFRlRubVVWaFU?oc=5",
+      "published_date": "2026-10-25"
     },
     {
-      "title": "〈貴金屬盤後〉金價摜破4000美元、本周重挫4% 油價漲勢鞏固Fed升息預期 - 鉅亨網",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiS0FVX3lxTFBCM1FZUWxiWlBILU1Jc2JrbTRMUE5ETFJIeHBGbDR2ZFhWbXljc2RaYjFubnRtWG1hWmVKYUxzdHhYYXJscThSc3NkZw?oc=5\" target=\"_blank\">〈貴金屬盤後〉金價摜破4000美元、本周重挫4% 油價漲勢鞏固Fed升息預期</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">鉅亨網</font>",
+      "title": "聯準會升息趨勢是否將因數據走強而轉變？ - 鉅亨網",
+      "summary": "近期經濟數據表現強勁，引發市場對於聯準會未來升息路徑是否會因此重新調整的討論。",
       "source": "鉅亨網-總經",
-      "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBCM1FZUWxiWlBILU1Jc2JrbTRMUE5ETFJIeHBGbDR2ZFhWbXljc2RaYjFubnRtWG1hWmVKYUxzdHhYYXJscThSc3NkZw?oc=5",
-      "published_date": "2026-10-24"
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQVTB3TEp0SF9PcHB3dUtxZlVzYURQMm5uZzRpR0w5RzFWcDhRY3RQZ2JlbDJjVHR4NGVHU2Y1T0U3Wk5BLUVFNWtJM1YzcjljVVRsN0pGV3dQbzlrZkVjb0hSakxDOW9oZE56RHhzMGxlY1dBOFByY3VGb1BvNl9iZ0FqNzNGUzNGRjBqQ2pNR1ZGSHBtQkFUVmxQbDNMczRYZ0RHcDBn?oc=5",
+      "published_date": "2026-10-25"
     },
     {
-      "title": "〈貴金屬盤後〉金價摜破4000美元、本周重挫4% 油價漲勢鞏固Fed升息預期 - 鉅亨網",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiT0FVX3lxTE9Nc1hHUFlVa3IxVFBjYUxETVlSdjhOdnhQNVVfME5Sc2JfMGQwTF9EZUtIam5PR1dsOHBWdVozQzRBbHhKenhjRzhWbFNNMUk?oc=5\" target=\"_blank\">〈貴金屬盤後〉金價摜破4000美元、本周重挫4% 油價漲勢鞏固Fed升息預期</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">鉅亨網</font>",
+      "title": "聯準會升息趨勢是否會因數據走強而轉變？ - 鉅亨網",
+      "summary": "強韌的總體經濟數據持續牽動貨幣政策走向，市場正重新評估央行降息與升息的機率。",
       "source": "鉅亨網-總經",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9Nc1hHUFlVa3IxVFBjYUxETVlSdjhOdnhQNVVfME5Sc2JfMGQwTF9EZUtIam5PR1dsOHBWdVozQzRBbHhKenhjRzhWbFNNMUk?oc=5",
-      "published_date": "2026-10-24"
+      "link": "https://news.google.com/rss/articles/CBMiywNBVV95cUxQUDlVSzEzbEg2S1BJS2d5WlNIMlRxcHZ6X2kwNjMzQk1aVDVtS2N4SDRyemtidXFUS25SWWhzaDVRSHZ0QnhidzlfX2tEdTdPSXRieDRzNWRQanNlMHpOVGk3b3Q4cTJ2VWY0d3FKWC1VaUxSdmRsbDRsRHpEMmdaTktFbEFpaldUVkpNS0xHdVhUVXNfbUY2Y2QyWjRrYS02RTZoRU96VkhVeUF3a21ZdXlEWXF6SndkWUFadjE4MWtDTHFlYnp6amtNUU9hTVEzMnZHMlhUNU9MT1BQbkRLRk03NnE3MVQ4QjlQNTlRQTlQeTYxVUg2SmtJazVrSFktUFpVVUFtb2wwWmJ1U2RjeGstTlNqUUsxTTIyNDlMU2wwWjlaVG0wbFFyMEFMcFhzeksxb1JwVWlGRnBQc05RREpneUpzQkdmMm53SjU4N0NmSWdudWw3VHFseTdfaDVHOHlWQjhqN05ZMTZlNWZfWlhIbExva1pxNFZQOVdBTmpCbTN2MWdBZ00xLWdrUDhpUUZNYTBKT0dweXd4ckpjUDZyd3ZCZnNwQmxsbGo2SDlOSnJObjRwdzJONmpNejloVnZnNWZoUlJjYnc?oc=5",
+      "published_date": "2026-10-25"
     },
     {
-      "title": "美股收盤｜道瓊跌逾1%，市場緊盯科技巨頭AI支出與Fed決策 - 鉅亨網",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiT0FVX3lxTE1fQTBESjF6RVZoOXpSclRpdk9WY2FwblhVNG11eHpDREFqN2gyYnBSV0RDSF9GWWs4X1BhbUl0c21OMUpXeWZLUG9ORlVtdkU?oc=5\" target=\"_blank\">美股收盤｜道瓊跌逾1%，市場緊盯科技巨頭AI支出與Fed決策</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">鉅亨網</font>",
+      "title": "央行持續購金，對金價的長期支撐體現在哪裡？ - 鉅亨網",
+      "summary": "全球央行持續央行購金潮，為黃金價格提供了長期的底部支撐與避險需求。",
       "source": "鉅亨網-總經",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1fQTBESjF6RVZoOXpSclRpdk9WY2FwblhVNG11eHpDREFqN2gyYnBSV0RDSF9GWWs4X1BhbUl0c21OMUpXeWZLUG9ORlVtdkU?oc=5",
-      "published_date": "2026-10-24"
+      "link": "https://news.google.com/rss/articles/CBMi4wNBVV95cUxOUW9odGFsdnNLVXl3WnpFb3Fhb25fX2dxVzYzZVd5bGxwMFduMTJyWXlZXzBiYU04Q3R0QmJpZUJpOTVJcFJ6UUc4WmhHbkJ2QWhDQnVKT1c1eE8zRm9BTVVvUnZfeGltQWhES3dCaUxSTmhNZVZOQVNVbXhjYVAzaVFhd0tZWTZTT0V5YWppZEExZFpjWjdfUjhUZ3VJdV82SEZtWmRuUl9zanpBMnp0d1ZmX0JINUhWQ25JbTJ6Y0k1OEtsdFl6NHNhdzQ3X1NBOWl5Ull2SHZLdHNPV3hJYnlIdUY5WFN5RC01MTZxWUZ6M3lPWVdDRjJ5V2k4a0tndmE0VGJEQWt0LUM0YlZCdUVYREk4WDdhbWRYbjBMazZiMDQwTjlIc1NQdGZTcFhLb0JaNTJ6M0VTVVNrd1hzY1ZwTGRtQlJCWkdoYTFXM1F4M3k3MG5pc1hmQzNBZW1xdmtxOTNOMjFCamxfQWJwOGhkdk1QVHc2X1hPOVB5SHI5VXpUeGFCbjV1U2lzajBWdThfZTB1cWJkR2dkUnpUN2lLVjBaVVg5ZV9tQ2pOa1Fzdm9FQWk2RTdFWm1yeDVPZVlXZm1NVFFhY0ZTUFZGWE56bXlXbGhsWWhjZjhUdXlSYkU?oc=5",
+      "published_date": "2026-10-25"
     },
     {
-      "title": "伊朗戰爭對燃料價格的影響，將如何改變聯準會的政策考量？ - 鉅亨網",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMirARBVV95cUxOWEdNOE9Va0wybXZCa0dNN09SdDRvUUF1aDVPUWtRamh2WkFoXzM2dFdIeTlCU2k3Vnprd1E0M3RNbXBfajhjT3hQU2g2Skd2cjJhVjREbUNYSl9KY1J6b3lmeFR6Ql9KX1l0enN6QkwwNjMtWXAzZTVBblNaM3pvYlM5YTBxVFktNHNlU2t0REQ3Y2llNHFMM19EaE9VWExZaElKdlM3VVBUajRMWjNPMmlZTjMwN0xqUlA3dFlsRGZhNk9BWi1RWGhSV01ZTGN4VS1tSjdvZlVHTWJnRU15andIUDZVYVRtUzJkaEx4MzZ3QmpvQ18waXBHRnp5YWREUm9UQjFSazlsM1JyLUltQmp0V0pLV0xRVVQ5dVRVVmpCVzdhbjlBVXBUcDc0QlBsR0xRMnNwRmFoYVJGQ0RReTNTa3g5Z1hKbWNRSFpWeWVCTW5Zczd1MHA3M25FT1laeDZzOUJoSzF0QlRQMjExM2Z0eDBUTlVnWVQwTmpraUpxS3JoczdLUnJHWC1uckFlUlBlUDlfOFNqLU50b2J2Q0NqaVFJYlZheGdEMXdoOVRsQzZOTG00THEwVHhWTzVKbGM2blFacEczR2dxb2ZkRzI5VVNzWkFYM1ZRTkZWTXjVjcz0?oc=5\" target=\"_blank\">伊朗戰爭對燃料價格的影響，將如何改變聯準會的政策考量？</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">鉅亨網</font>",
+      "title": "澳洲央行是否會在11月升息，取決於哪些數據？ - 鉅亨網",
+      "summary": "澳洲央行在11月是否會重啟升息，將取決於接下來公布的通膨與就業核心數據表現。",
       "source": "鉅亨網-總經",
-      "link": "https://news.google.com/rss/articles/CBMirARBVV95cUxOWEdNOE9Va0wybXZCa0dNN09SdDRvUUF1aDVPUWtRamh2WkFoXzM2dFdIeTlCU2k3Vnprd1E0M3RNbXBfajhjT3hQU2g2Skd2cjJhVjREbUNYSl9KY1J6b3lmeFR6Ql9KX1l0enN6QkwwNjMtWXAzZTVBblNaM3pvYlM5YTBxVFktNHNlU2t0REQ3Y2llNHFMM19EaE9VWExZaElKdlM3VVBUajRMWjNPMmlZTjMwN0xqUlA3dFlsRGZhNk9BWi1RWGhSV01ZTGN4VS1tSjdvZlVHTWJnRU15andIUDZVYVRtUzJkaEx4MzZ3QmpvQ18waXBHRnp5YWREUm9UQjFSazlsM1JyLUltQmp0V0pLV0xRVVQ5dVRVVmpCVzdhbjlBVXBUcDc0QlBsR0xRMnNwRmFoYVJGQ0RReTNTa3g5Z1hKbWNRSFpWeWVCTW5Zczd1MHA3M25FT1laeDZzOUJoSzF0QlRQMjExM2Z0eDBUTlVnWVQwTmpraUpxS3JoczdLUnJHWC1uckFlUlBlUDlfOFNqLU50b2J2Q0NqaVFJYlZheGdEMXdoOVRsQzZOTG00THEwVHhWTzVKbGM2blFacEczR2dxb2ZkRzI5VVNzWkFYM1ZRTkZWTXJqVzNjVE9mdlViZXVGWkZVaTFNdXRUTjhraUgyZ1lRSnNUVlVvZndLMWo2YjZ2Z0NmUlFJdWhjbzhocm9XVnZQTUZHR0pWdDBTbkw2?oc=5",
-      "published_date": "2026-10-24"
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQQmZLQnB6VWM0dWdRY25FYTNvUXhSaWpiNFEycW02YWtVLTU2NEMtbko0MGoxSjZYTVVkT1ltcGpYbjFUR1duSHJVWEhUaC1TYThGU2lyZUJDZWl3dU9WRktBMUFkd0huUjl4eU5rUU1SQjNlUGVsalBDb3JaMFJpV1JuNGhNVktNOUR3YmNEU3ZFZ0dTX2tuSTZENEl2VUJETjdSRElB?oc=5",
+      "published_date": "2026-10-25"
     },
     {
-      "title": "金價跌破4000美元，美股科技股遭拋售，東台股價創新高，日本CPI升息預期加劇 - 鉅亨網",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiU0FVX3lxTE5Rc3ZHcXRiaDZSMm1HN3BBMWFhV29MZm9VN21hNUtldnFEQnQycURadkJzdUdzaHdlczJldU1ET3NWM29lRGlWSkFNb19kdHdnZWZF?oc=5\" target=\"_blank\">金價跌破4000美元，美股科技股遭拋售，東台股價創新高，日本CPI升息預期加劇</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">鉅亨網</font>",
+      "title": "太空算力與AI市場面臨機遇與風險，科技投資信心波動加劇 - 鉅亨網",
+      "summary": "隨著太空算力與AI應用發展加速，總體經濟環境下的科技投資信心也隨之出現波動。",
       "source": "鉅亨網-總經",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5Rc3ZHcXRiaDZSMm1HN3BBMWFhV29MZm9VN21hNUtldnFEQnQycURadkJzdUdzaHdlczJldU1ET3NWM29lRGlWSkFNb19kdHdnZWZF?oc=5",
-      "published_date": "2026-10-24"
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE4tUXpKM2cweVE1d05qTDFSSXJMWUdub0w0X1M3UnRUYjc2aDBqWmVvUlp1eGdYdHRwZDhFVGJuYzN2Rm9TZkdjMlducS03Q2Z6Q0VR?oc=5",
+      "published_date": "2026-10-25"
     },
     {
       "title": "〈紐約匯市〉美元上漲 日元因AI股重挫轉強 法國債務疑慮拖累歐元 - 鉅亨網",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiU0FVX3lxTE5BMzd6ZjBIbWpjYXE5ZWlBeUpVQ1NtWllMVEdhSTUzNzZMTmN3bjhDVVU4aS1oNndxNVRLRkhtTHY5aU9iREVVWVdZNlU0aUczM1Bz?oc=5\" target=\"_blank\">〈紐約匯市〉美元上漲 日元因AI股重挫轉強 法國債務疑慮拖累歐元</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">鉅亨網</font>",
+      "summary": "紐匯市中美元走強，日圓因AI類股重挫發揮避險功能，歐元則持續受到法國債務疑慮拖累。",
       "source": "鉅亨網-總經",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5BMzd6ZjBIbWpjYXE5ZWlBeUpVQ1NtWllMVEdhSTUzNzZMTmN3bjhDVVU4aS1oNndxNVRLRkhtTHY5aU9iREVVWVdZNlU0aUczM1Bz?oc=5",
-      "published_date": "2026-10-24"
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5ONktJTHZiclBKMEpybDRQYUlRV2pQUkFhaXZuVHlBbHowVDJXLVJucC1nbHdOam1xZU9sdDQtUERpMk5QcEhqX1JYTmVpV1U?oc=5",
+      "published_date": "2026-10-25"
+    },
+    {
+      "title": "AI基建融資疑慮升溫　分析師：擴張受限或有助延長景氣強勁時間",
+      "summary": "分析師認為，AI基礎設施融資疑慮雖使擴張受限，但反而有助於調節供需，延長景氣強勁週期。",
+      "source": "Yahoo奇摩股市-研究報告",
+      "link": "https://tw.stock.yahoo.com/news/ai%E5%9F%BA%E5%BB%BA%E8%9E%8D%E8%B3%87%E7%96%91%E6%85%AE%E5%8D%87%E6%BA%AB-%E5%88%86%E6%9E%90%E5%B8%AB-%E6%93%B4%E5%BC%B5%E5%8F%97%E9%99%90%E6%88%96%E6%9C%89%E5%8A%A9%E5%BB%B6%E9%95%B7%E6%99%AF%E6%B0%A3%E5%BC%B7%E5%8B%81%E6%99%82%E9%96%93-032715057.html",
+      "published_date": "2026-10-25"
     }
   ],
   "ai": [
     {
-      "title": "Forced to pick, Grok’s AI model chooses Republicans. OpenAI’s picks Democrats.",
-      "summary": "研究顯示Grok模型偏好共和黨候選人而OpenAI偏好民主黨，兩者在多數選舉預測中意見分歧。",
+      "title": "The hottest AI wearables and gadgets you should know about",
+      "summary": "外媒盤點近期市場上備受關注的AI穿戴裝置與創新硬體，包含Muse Charm與Friend等熱門產品。",
       "source": "TechCrunch-AI",
-      "link": "https://techcrunch.com/2026/10/24/forced-to-pick-groks-ai-model-chooses-republicans-openais-picks-democrats/",
-      "published_date": "2026-10-24"
+      "link": "https://techcrunch.com/2026/10/25/the-hottest-ai-wearables-and-gadgets-you-should-know-about/",
+      "published_date": "2026-10-25"
     },
     {
-      "title": "Here are the top AI agents that can live in your text messages",
-      "summary": "盤點多款可直接整合進手機簡訊中的AI助理，涵蓋家庭、旅遊與日常工作等多種應用場景。",
+      "title": "The AI graveyard: a running list of projects and startups that didn’t make it",
+      "summary": "外媒整理近期發展不如預期或黯然退場的AI專案與新創，反思蘋果Siri延宕與OpenAI超級App的挑戰。",
       "source": "TechCrunch-AI",
-      "link": "https://techcrunch.com/2026/10/24/all-the-ai-agents-that-can-live-in-your-text-messages/",
-      "published_date": "2026-10-24"
+      "link": "https://techcrunch.com/2026/10/24/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it/",
+      "published_date": "2026-10-25"
     },
     {
-      "title": "OpenAI says it will no longer train its AI models on the live internet, citing “significant risks”",
-      "summary": "OpenAI基於重大風險考量，宣布未來不再使用即時網際網路來訓練其前端AI模型。",
+      "title": "Block’s new voice model sounds eerily human",
+      "summary": "Block發表全新AI語音模型，其自然度表現驚艷，且支援在MacBook M4 Max上進行本地端運行。",
       "source": "TechCrunch-AI",
-      "link": "https://techcrunch.com/2026/10/23/openai-says-it-will-no-longer-train-its-ai-models-on-the-live-internet-citing-significant-risks/",
-      "published_date": "2026-10-24"
+      "link": "https://techcrunch.com/2026/10/24/blocks-new-voice-model-sounds-eerily-human/",
+      "published_date": "2026-10-25"
     },
     {
-      "title": "Hottest toy for Christmas? Nvidia CEO plays with adorable Microduck robots, 20,000 sell",
-      "summary": "輝達執行長黃仁勳把玩微型機器鴨玩具引發熱議，展現AI結合硬體玩具的市場潛力。",
-      "source": "TechCrunch-AI",
-      "link": "https://techcrunch.com/2026/10/23/hottest-toy-for-christmas-nvidia-ceo-plays-with-adorable-microduck-robots-20000-sell/",
-      "published_date": "2026-10-24"
-    },
-    {
-      "title": "Rapidly scaling online storage to serve over 1 billion ChatGPT users (Part II)",
-      "summary": "OpenAI分享如何透過分散式儲存與多租戶架構，將ChatGPT的資料讀取速度提升12倍。",
-      "source": "OpenAI 官方新聞",
-      "link": "https://openai.com/index/scaling-storage-one-billion-users-part-two",
-      "published_date": "2026-10-24"
-    },
-    {
-      "title": "晶片設計機密不出內網！台大打造專用AI引擎，台灣7大前瞻技術一次看 - 數位時代",
-      "summary": "台大成功打造晶片設計專用AI引擎確保機密不出內網，展現台灣前瞻技術實力。",
+      "title": "Claude Cowork 理財實測：每天自動追蹤持股新聞、理財 Podcast，持股被點名立刻知道 - 未來商務",
+      "summary": "實測顯示利用AI工具如Claude Cowork自動追蹤持股新聞與Podcast，能有效提升個人理財效率。",
       "source": "數位時代",
-      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNWnA0bWxtYkJZYk1RekhNdnUyUVVCX2ZOOXZaLUk2YjFaR0V3WHN1Mk9nc1hRUnRCbUFBZkZuTU9LbzA4RndhQTd1aHcxTFFvMlhfeGFXcHpaQzkyRnpFQ3JzRThrT1VOT2FZclVVQU9tamxlY016aWQwLW9kMnRXZkdKSzhmR3QyaTJ6bTkzNkhqTlcxWm81bQ?oc=5",
-      "published_date": "2026-10-24"
-    },
-    {
-      "title": "AI 攻擊工具現蹤台灣電商！LiteLLM、Railway 也傳入侵，憑證與權杖管理為何成資安破口？ - 未來商務",
-      "summary": "AI攻擊工具悄悄入侵台灣電商與服務平台，突顯憑證與權杖管理成為企業資安重大破口。",
-      "source": "數位時代",
-      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1waTFxQUdmREpLd3NUazlubzlIcmlBRFpfMW5iaW9CUkFYNkprNGNmdUFjMmxZVExCTlRMRnFNU2FCcU51dTJYMTRaVThiQXFGdFJjcw?oc=5",
-      "published_date": "2026-10-24"
-    },
-    {
-      "title": "AI 開始忽略要求、重犯改過的錯？出現這 7 種徵兆，就該考慮開新對話了 - 未來商務",
-      "summary": "當AI開始忽略指令或重複犯錯時，專家建議應及時開新對話以確保互動品質。",
-      "source": "數位時代",
-      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBONlRhWjVQUjdVeXRIcVdMR1FzMy15R2h2THRQVC1Tc1RjdlBUWnlXQzdCVTVyVzM5VllTUjBSLWxRY3ZsdXhsX1FJMVpvN3VpSEhKRA?oc=5",
-      "published_date": "2026-10-24"
-    },
-    {
-      "title": "AI開店誰最會賺錢？18款模型模擬經營評比，GPT資產增至14倍、Claude議價最強 - 數位時代",
-      "summary": "針對18款AI模型進行開店模擬經營評比，結果顯示GPT資產成長顯著而Claude議價能力最強。",
-      "source": "數位時代",
-      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNUGExbkNETXpoMGRWVVZjUnZSQm96SkRNVmxhQ0g5UjREY2FkTDEycDlpS0h5bFVjSERkM0FuSThjbkpCenQ5cTN0RzhhOVZPekNLV2U0aGw0YVlHeWhtNlJiaHBBZzNFVloxallrYzR4QzI0ejBZYVFLcWFlM0lVczIwRHdJZElYaDduY3NBLVRWNks2Wjg1aXVjbHk?oc=5",
-      "published_date": "2026-10-24"
+      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9SWDZpXzhvcmwyUG9NbnFiWkxYLWhxaENYN01YbVV5NDM4OTlYQ2Z3dEdGdjhuSEQ3S3BGc1VKb0VyMG9JM1pRTDUtNThUNlhuSTE1aw?oc=5",
+      "published_date": "2026-10-25"
     }
   ],
-  "startup": [],
-  "closing_note": "穩健投資，享受週末時光！"
+  "startup": [
+    {
+      "title": "中小企業 AI 導入補助｜製造業做診斷只需自付 1 萬，服務業店家能補多少？方案、條件全整理 - 未來商務",
+      "summary": "政府推出中小企業AI導入補助方案，製造業診斷僅需自付1萬元，全力協助產業數位轉型。",
+      "source": "數位時代",
+      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBwZmh5RC1zaW5CMnVwT0RWOXBwX3lWN0F1b29zNjdhbXFoMWt6UThmUXFFN1hBcGROd0EyREFob1NObVhmbHB4M0lHYUlyRG1BSVo0RQ?oc=5",
+      "published_date": "2026-10-25"
+    }
+  ],
+  "closing_note": "穩健布局，掌握趨勢，祝你有個美好的一天！"
 }
